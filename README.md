@@ -1,2 +1,2 @@
 # simple-blog-laravel
-simple blog is build from laravel 5.3 and integrated with bootstrap theme
+assumed you have to installed laravel project before you use this tutorial.
